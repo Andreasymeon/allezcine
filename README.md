@@ -1,8 +1,37 @@
-# AllezCine (front-end integration)
+English & francais
+* [AllezCine (explained in ENGISH)](#allezcine--explained-in-engish)
+  * [Front-End Integration.](#front-end-integration)
+  * [Learning Objectives](#learning-objectives)
+  * [The Work](#the-work)
+  * [Website with LAYOUT](#website-with-layout)
+    + [Menu](#menu)
+    + [Header](#header)
+    + [The social networks buttons](#the-social-networks-buttons)
+    + [Movies Section](#movies-section)
+    + [Featured Movies Section](#featured-movies-section)
+    + [Shop Movie Section](#shop-movie-section)
+    + [Contact Us Section](#contact-us-section)
+    + [Footer Section](#footer-section)
+    
+* [AllezCine (expliqué en Francais)](#allezcine--expliqué-en-francais)
+  * [Travail d'Intégration](#travail-d'-intégration)
+  * [Objectifs d'apprentissage](#objectifs-d'-apprentissage)
+  * [Le Travail d'intégration Front-End](#le-travail-d'-intégration-front-end)
+  * [Site avec LAYOUT](#site-avec-layout)
+    + [Menu](#menu)
+    + [En-tête](#en-tête)
+    + [Les boutons réseaux sociaux](#les-boutons-réseaux-sociaux)
+    + [Section Films](#section-films)
+    + [Section Featured Movies](#section-featured-movies)
+    + [Section Shop Movie](#section-shop-movie)
+    + [Section Contact Us](#section-contact-us)
+    + [Section Footer](#section-footer)
+    
 
-English (francais en dessous).
------------
+# AllezCine (explained in ENGISH)
 
+Front-End Integration.
+------------
 Project done with Mickael Van Craenenbroeck.
 
 ## Learning Objectives
@@ -10,11 +39,11 @@ Project done with Mickael Van Craenenbroeck.
 - consolidate the knowledge in git, HTML, CSS, Bootstrap.
 - use javascript and jQuery in a realistic project
 
-## The Front-End Integration Work
+## The Work
 
 This concludes the two months of front-end we had together.
 
-You have ** 3 jobs to make **.
+You have **3 jobs to make**.
 - A site in ONE PAGE with a provided design ([yes!] (Layout-one-page.jpg)). [[Quick Access]] (# c-la-newsletter-bonus)
 - Fan site (Design not included) [[Quick Access]] (# b-fan-site)
 - Creation of a newsletter to promote the news on your site. [[Quick Access]] (# c-la-newsletter-bonus)
@@ -28,18 +57,18 @@ For this, you must use all the technos seen from the beginning, ie:
 - Bootstrap
 - Font Awesome Icons
 
-** First of all, you should write a readme.md indicating:
+**First of all**, you should write a readme.md indicating:
 - the project description
 - the names of the members of the team
 
 ## Website with LAYOUT
 
-You will realize,a website for renting and selling films. WARNING, this is a ** one-page ** site!
+You will realize,a website for renting and selling films. WARNING, this is a **one-page** site!
 
-- [Click here to see the layout] (layout-one-v2.jpg)
+- [Click here to see the layout](layout-one-v2.jpg)
 
 ### Menu
-A **menu** in bootstrap with submenus. (** Hamburger menu for responsive **).
+A **menu** in bootstrap with submenus. (**Hamburger menu for responsive**).
 
 Since it's a onepage, the links in the menu should point to the dedicated sections.
 
@@ -71,11 +100,10 @@ Create a form (in the HTML page, not in a pop-up). Make the form entries appear 
 ### Footer Section 
 Make sure that when you click on the small red button with the white arrow, you go up to the header of the site, the little button disappears once the header appears.
 
-Francais.
----------------
+# AllezCine (expliqué en Francais)
 
-# Travail d'Intégration
-
+Travail d'Intégration
+------------
 Travail réalisé à 2 avec Mickael Van Craenenbroeck.
 
 ## Objectifs d'apprentissage
