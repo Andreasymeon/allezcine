@@ -20,7 +20,7 @@ English & francais
   * [Le Travail d'intégration Front-End](#le-travail-d'-intégration-front-end)
   * [Site avec LAYOUT](#site-avec-layout)
     + [Menu](#menu)
-    + [En-tête](#en-tête)
+    + [header](#header)
     + [Les boutons réseaux sociaux](#les-boutons-réseaux-sociaux)
     + [Section Films](#section-films)
     + [Section Featured Movies](#section-featured-movies)
@@ -146,7 +146,7 @@ Un **menu** en bootstrap avec des sous-menus. (**Menu hamburger pour le responsi
 
 Comme c’est une onepage, les liens du menu doivent pointer vers les sections dédiées.
 
-### En-tête
+### Header
 Le **jumbotron** de l'entête doit faire 100% de la largeur de l'écran dans lequel il y a un slide (Cf layout). Faire fonctionner le **slide** en CSS ou en JS ou jQuery)
 
 ### Les boutons réseaux sociaux
