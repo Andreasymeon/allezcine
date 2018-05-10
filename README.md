@@ -1,5 +1,6 @@
 English & francais
-* [AllezCine (explained in ENGISH)](#allezcine--explained-in-engish)
+
+* AllezCine (explained in ENGISH)
   * [Front-End Integration.](#front-end-integration)
   * [Learning Objectives](#learning-objectives)
   * [The Work](#the-work)
@@ -13,7 +14,7 @@ English & francais
     + [Contact Us Section](#contact-us-section)
     + [Footer Section](#footer-section)
     
-* [AllezCine (expliqué en Francais)](#allezcine--expliqué-en-francais)
+* AllezCine (expliqué en Francais)
   * [Travail d'Intégration](#travail-d'-intégration)
   * [Objectifs d'apprentissage](#objectifs-d'-apprentissage)
   * [Le Travail d'intégration Front-End](#le-travail-d'-intégration-front-end)
