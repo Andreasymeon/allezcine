@@ -1,6 +1,6 @@
 English & francais
 
-* AllezCine (explained in ENGISH)
+* AllezCine (explained in English)
   * [Front-End Integration.](#front-end-integration)
   * [Learning Objectives](#learning-objectives)
   * [The Work](#the-work)
