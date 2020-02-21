@@ -1,5 +1,5 @@
-* (unfinished)
-* English & francais
+(unfinished project)
+English & francais
 
 * AllezCine (explained in English)
   * [Front-End Integration.](#front-end-integration)
